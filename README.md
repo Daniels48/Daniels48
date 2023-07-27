@@ -32,4 +32,5 @@
 
 ![Daniels48 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniels48&layout=compact&count_private=true&theme=gruvbox)
 
-</div></div>div>
+</div>
+  </div>
