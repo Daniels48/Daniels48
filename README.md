@@ -2,7 +2,9 @@
 
 ## Technology stack
 <div style="display: flex;">
-<div>**Back-end**
+<div>
+
+**Back-end**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
@@ -25,6 +27,7 @@
 </div>
 
 <div>
+  
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![Daniels48 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniels48&layout=compact&count_private=true&theme=gruvbox)
