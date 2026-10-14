@@ -1,8 +1,11 @@
 <h1 align="center">Python Backend Developer</h1>
 
-## About
+
+## Обо мне
 
 Я Python-разработчик, специализирующийся на backend-разработке и проектировании API. Работаю с FastAPI, Django, PostgreSQL и асинхронным Python. Имею опыт разработки REST API, интеграции брокеров сообщений и создания десктопных приложений с использованием PyQt5.
+
+
 
 ## Skills
 
@@ -16,7 +19,7 @@
 
 
 
-## Current Projects
+## Проекты
 
 ### [IssueFlow](https://github.com/Daniels48/IssueFlow)
 
