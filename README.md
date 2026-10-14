@@ -21,32 +21,38 @@ Currently, I'm developing **IssueFlow** — a project management application.
 
 ## Current Projects
 
-### IssueFlow
+### [IssueFlow](https://github.com/Daniels48/IssueFlow)
+
 Project management application for task tracking and team collaboration.
 
 **Tech stack:** Python, FastAPI, SQLAlchemy, PostgreSQL, Redis, RabbitMQ, Docker
 
-### Team Board
+### [Team Board](https://github.com/Daniels48/TeamBoard)
+
 A collaborative task management application with boards, columns and cards.
 
 **Tech stack:** Python, FastAPI, PostgreSQL, JavaScript, HTML, CSS
 
-### RouteNavigator
+### [RouteNavigator](https://github.com/Daniels48/RouteNavigator)
+
 A route navigation application.
 
 **Tech stack:** Python
 
-### Store Management System
+### [Store Management System](https://github.com/Daniels48/StoreManagement)
+
 A desktop application for managing operations in a small retail store, including payment terminal integration.
 
 **Tech stack:** Python, PyQt5, PostgreSQL
 
-### Clothes Yanki
+### [Clothes Yanki](https://github.com/Daniels48/ClothesYanki)
+
 A clothing-related application.
 
 **Tech stack:** Python
 
-### Get Weather
+### [Get Weather](https://github.com/Daniels48/GetWeather)
+
 A weather application for retrieving and displaying weather information.
 
 **Tech stack:** Python
