@@ -9,45 +9,18 @@ Currently, I'm developing **IssueFlow** — a project management application.
 
 ## Skills
 
-###  Backend Development
+**Backend:** Python, FastAPI, Django, Aiogram, SQLAlchemy, Pydantic, WebSockets
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django" />
-</p>
+**Infrastructure:** PostgreSQL, Redis, RabbitMQ, Celery, Docker, Linux
 
-###  Databases & ORM
+**Frontend:** JavaScript, HTML5, CSS3
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlalchemy" />
-</p>
+**Desktop Development:** PyQt5
 
-###  Messaging & Background Tasks
+**Tools:** Git, GitHub, PyCharm
 
-<p>
-  <img src="https://skillicons.dev/icons?i=rabbitmq,celery" />
-</p>
 
-###  Front-end Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-###  Desktop Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=qt" />
-</p>
-
-###  DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,pycharm" />
-</p>
-
----
-
-## 🚀 Projects
+## Current Projects
 
 ### 🔹 IssueFlow
 
