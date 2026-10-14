@@ -1,4 +1,4 @@
-<h1 align="center">Python Backend Developer | REST APIs | Desktop Applications</h1>
+<h1 align="center">Python Backend Developer</h1>
 
 ## About
 
