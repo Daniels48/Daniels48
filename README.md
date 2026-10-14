@@ -17,7 +17,6 @@ Currently, I'm developing **IssueFlow** — a project management application.
 
 **Desktop Development:** PyQt5
 
-**Tools:** Git, GitHub, PyCharm
 
 
 ## Current Projects
