@@ -12,7 +12,7 @@ I also have experience developing desktop applications with PyQt5 and working wi
 
 **Infrastructure:** PostgreSQL, Redis, RabbitMQ, Celery, Docker, Nginx, Linux
 
-**Frontend:** JavaScript, HTML5, CSS3
+**Frontend:** JavaScript, HTML, CSS
 
 **Desktop Development:** PyQt5
 
