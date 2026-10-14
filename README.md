@@ -42,13 +42,13 @@ A route planning application that finds the shortest paths between bus stops in 
 
 A desktop application for managing operations in a small retail store, including payment terminal integration.
 
-**Tech stack:** Python, PyQt5, PostgreSQL
+**Tech stack:** *Python, PyQt5, PostgreSQL*
 
 ### [Clothes Yanki](https://github.com/Daniels48/clothes_Yanki)
 
-A clothing-related application.
+A clothing e-commerce web application featuring user registration, product search, shopping cart and favorites functionality. Includes a responsive interface built from a design mockup.
 
-**Tech stack:** Python
+**Tech stack:** *Python, Django, Django ORM, JavaScript, HTML, CSS*
 
 ### [Get Weather](https://github.com/Daniels48/Get_weather)
 
