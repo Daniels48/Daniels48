@@ -1,38 +1,75 @@
-### Hi there 👋 I'm a Python developer
+<h1 align="center">Python Backend and API Developer with Front-end Skills</h1>
 
-## Technology stack
-<div style="display: flex;">
-<div>
+## About
 
-**Back-end**
+I'm a Python developer interested in building reliable backend services, REST APIs and desktop applications.
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
+I work with asynchronous Python, relational databases, authentication, message brokers and containerized environments.
 
-**Databases**
+I also have experience developing desktop applications with PyQt5 and working with front-end technologies.
 
-![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![MYSQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat-square&logo=MYSQL)
+Currently, I'm developing **IssueFlow** — a project management application.
 
-**Front-end**
+## 🛠 Skills
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+### 🐍 Backend Development
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django" />
+</p>
 
-**Tools**
+### 🗄️ Databases & ORM
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-%232c3e50?style=flat-square&logo=Docker)
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlalchemy" />
+</p>
 
-<div>
-  
-## 𝗦𝘁𝗮𝘁𝘀
+### 📨 Messaging & Background Tasks
 
-![Daniels48 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniels48&layout=compact&count_private=true&theme=gruvbox)
+<p>
+  <img src="https://skillicons.dev/icons?i=rabbitmq,celery" />
+</p>
 
-</div>
-  </div>
+### 🎨 Front-end Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 🖥️ Desktop Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=qt" />
+</p>
+
+### ⚙️ DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,pycharm" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🔹 IssueFlow
+
+A project management application for organizing tasks and team collaboration.
+
+**Tech stack:** Python, FastAPI, SQLAlchemy, PostgreSQL, Redis, RabbitMQ, Docker.
+
+[View Repository →](https://github.com/Daniels48/IssueFlow)
+
+### 🔹 Desktop Application — PyQt5
+
+A desktop application developed with Python and PyQt5.
+
+**Tech stack:** Python, PyQt5, PostgreSQL.
+
+[View Repository →](https://github.com/Daniels48)
+
+---
+
+<p align="center">
+  <i>Always learning, building and improving.</i>
+</p>
