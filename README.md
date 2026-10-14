@@ -5,7 +5,6 @@
 I'm a Python developer interested in building reliable backend services, REST APIs and desktop applications.
 I work with asynchronous Python, relational databases, authentication, message brokers and containerized environments.
 I also have experience developing desktop applications with PyQt5 and working with front-end technologies.
-Currently, I'm developing **IssueFlow** — a project management application.
 
 ## Skills
 
