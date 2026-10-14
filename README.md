@@ -8,9 +8,9 @@ I also have experience developing desktop applications with PyQt5 and working wi
 
 ## Skills
 
-**Backend:** Python, FastAPI, Django, Aiogram, SQLAlchemy, Pydantic, WebSockets
+**Backend:** Python, FastAPI, Django, Aiogram, SQLAlchemy, Pydantic, JWT, WebSockets
 
-**Infrastructure:** PostgreSQL, Redis, RabbitMQ, Celery, Docker, Linux
+**Infrastructure:** PostgreSQL, Redis, RabbitMQ, Celery, Docker, Nginx, Linux
 
 **Frontend:** JavaScript, HTML5, CSS3
 
