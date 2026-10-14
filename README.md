@@ -1,10 +1,8 @@
-<h1 align="center">Python Backend and API Developer with Front-end Skills</h1>
+<h1 align="center">Python Backend Developer | REST APIs | Desktop Applications</h1>
 
 ## About
 
-I'm a Python developer interested in building reliable backend services, REST APIs and desktop applications.
-I work with asynchronous Python, relational databases, authentication, message brokers and containerized environments.
-I also have experience developing desktop applications with PyQt5 and working with front-end technologies.
+I'm a Python developer focused on backend development and API design. I work with FastAPI, Django, PostgreSQL and asynchronous Python, and have experience building REST APIs, integrating message brokers and developing desktop applications with PyQt5.
 
 ## Skills
 
@@ -28,7 +26,7 @@ Project management application for issue tracking, team collaboration and workfl
 
 ### [Team Board](https://github.com/Daniels48/TeamBoard)
 
-A collaborative task management application with boards, columns and cards, featuring JWT authentication and project management functionality.
+A task management application that allows users to organize work using boards, columns and cards. Implements JWT-based authentication and project access management.
 
 **Tech stack:** *Python, FastAPI, SQLAlchemy, PostgreSQL, Redis, JWT, JavaScript, HTML, CSS, Docker*
 
