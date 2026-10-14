@@ -24,13 +24,13 @@ I also have experience developing desktop applications with PyQt5 and working wi
 
 Project management application for issue tracking, team collaboration and workflow management. Features JWT authentication, role-based access control, comments, WebSocket communication and asynchronous event processing.
 
-**Tech stack:** Python, FastAPI, SQLAlchemy, PostgreSQL, Redis, RabbitMQ, Celery, WebSockets, JWT, JavaScript, HTML, CSS, Docker, Nginx
+**Tech stack:** *Python, FastAPI, SQLAlchemy, PostgreSQL, Redis, RabbitMQ, Celery, WebSockets, JWT, JavaScript, HTML, CSS, Docker, Nginx*
 
 ### [Team Board](https://github.com/Daniels48/TeamBoard)
 
 A collaborative task management application with boards, columns and cards, featuring JWT authentication and project management functionality.
 
-**Tech stack:** Python, FastAPI, SQLAlchemy, PostgreSQL, Redis, JWT, JavaScript, HTML, CSS, Docker
+**Tech stack:** *Python, FastAPI, SQLAlchemy, PostgreSQL, Redis, JWT, JavaScript, HTML, CSS, Docker*
 
 ### [RouteNavigator](https://github.com/Daniels48/RouteNavigator)
 
