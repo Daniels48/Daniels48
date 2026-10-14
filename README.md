@@ -21,8 +21,6 @@ Currently, I'm developing **IssueFlow** — a project management application.
 
 ## Current Projects
 
-## Projects
-
 ### IssueFlow
 Project management application for task tracking and team collaboration.
 
