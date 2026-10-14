@@ -20,7 +20,7 @@ I'm a Python developer focused on backend development and API design. I work wit
 
 ### [IssueFlow](https://github.com/Daniels48/IssueFlow)
 
-Project management application for issue tracking, team collaboration and workflow management. Features JWT authentication, role-based access control, comments, WebSocket communication and asynchronous event processing.
+Веб-приложение для управления проектами и задачами с JWT-аутентификацией, ролевой моделью доступа, WebSocket и асинхронной обработкой событий через RabbitMQ.
 
 **Tech stack:** *Python, FastAPI, SQLAlchemy, PostgreSQL, Redis, RabbitMQ, Celery, WebSockets, JWT, JavaScript, HTML, CSS, Docker, Nginx*
 
