@@ -44,13 +44,13 @@ A desktop application for managing operations in a small retail store, including
 
 **Tech stack:** Python, PyQt5, PostgreSQL
 
-### [Clothes Yanki](https://github.com/Daniels48/ClothesYanki)
+### [Clothes Yanki](https://github.com/Daniels48/clothes_Yanki)
 
 A clothing-related application.
 
 **Tech stack:** Python
 
-### [Get Weather](https://github.com/Daniels48/GetWeather)
+### [Get Weather](https://github.com/Daniels48/Get_weather)
 
 A weather application for retrieving and displaying weather information.
 
