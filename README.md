@@ -52,6 +52,6 @@ A clothing e-commerce web application featuring user registration, product searc
 
 ### [Get Weather](https://github.com/Daniels48/Get_weather)
 
-A weather application for retrieving and displaying weather information.
+A Telegram bot that provides weather information for a specified city.
 
-**Tech stack:** Python
+**Tech stack:** *Python, Aiogram, aiohttp*
