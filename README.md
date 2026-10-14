@@ -34,9 +34,9 @@ A collaborative task management application with boards, columns and cards, feat
 
 ### [RouteNavigator](https://github.com/Daniels48/RouteNavigator)
 
-A route navigation application.
+A route planning application that finds the shortest paths between bus stops in Voronezh using the A* search algorithm. Features an interactive map based on OpenStreetMap.
 
-**Tech stack:** Python
+**Tech stack:** *Python, FastAPI, SQLAlchemy, PostgreSQL, Jinja2, Leaflet.js, OpenStreetMap*
 
 ### [Store Management System](https://github.com/Daniels48/StoreManagement)
 
