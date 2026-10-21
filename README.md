@@ -27,7 +27,7 @@
 
 **Tech stack:** *Python, FastAPI, SQLAlchemy, PostgreSQL, Redis, RabbitMQ, Celery, WebSockets, JWT, JavaScript, HTML, CSS, Docker, Nginx*
 
-### [Team Board](https://github.com/Daniels48/TeamBoard)
+### [Team Board](https://github.com/Daniels48/TeamBoard_API)
 
 Приложение для управления задачами, позволяющее организовывать работу с помощью досок, колонок и карточек. Реализованы JWT-аутентификация и управление доступом к проектам.
 
