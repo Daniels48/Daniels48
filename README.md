@@ -49,7 +49,7 @@
 
 Веб-приложение интернет-магазина одежды с регистрацией пользователей, поиском товаров, корзиной и избранным. Интерфейс адаптирован для разных размеров экранов и свёрстан по готовому макету.
 
-**Tech stack:** *Python, Django, Django ORM, JavaScript, HTML, CSS*
+**Tech stack:** *Python, Django, Django ORM, PostgreSQL, JavaScript, HTML, CSS, Docker*
 
 ### [Get Weather](https://github.com/Daniels48/Get_weather)
 
