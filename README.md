@@ -33,7 +33,7 @@
 
 **Tech stack:** *Python, FastAPI, SQLAlchemy, PostgreSQL, Redis, JWT, JavaScript, HTML, CSS, Docker*
 
-### [RouteNavigator](https://github.com/Daniels48/RouteNavigator)
+### [Route Navigator](https://github.com/Daniels48/RouteNavigator)
 
 Приложение для построения маршрутов, которое находит кратчайшие пути между автобусными остановками Воронежа с использованием алгоритма поиска A*. Предусмотрена интерактивная карта на основе OpenStreetMap
 
