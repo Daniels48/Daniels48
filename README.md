@@ -9,7 +9,7 @@
 
 ## Skills
 
-**Backend:** Python, FastAPI, Django, Aiogram, SQLAlchemy, Pydantic, JWT, WebSockets
+**Backend:** Python, FastAPI, Django, Aiogram, SQLAlchemy, Pydantic, SQL, JWT, WebSockets
 
 **Infrastructure:** PostgreSQL, Redis, RabbitMQ, Celery, Docker, Nginx, Linux
 
