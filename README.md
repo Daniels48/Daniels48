@@ -43,7 +43,7 @@
 
 Настольное приложение для автоматизации работы небольшого розничного магазина, включая управление товарами и интеграцию с платёжным терминалом.
 
-**Tech stack:** *Python, PyQt5, PostgreSQL*
+**Tech stack:** *Python, PyQt5, SQLAlchemy, PostgreSQL*
 
 ### [Clothes Yanki](https://github.com/Daniels48/clothes_Yanki)
 
