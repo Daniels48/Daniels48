@@ -52,5 +52,7 @@
 **Tech stack:** *Python, Django, Django ORM, PostgreSQL, JavaScript, HTML, CSS, Docker*
 
 ### [Get Weather](https://github.com/Daniels48/Get_weather)
+
 Telegram-бот для получения прогноза погоды по названию города с использованием OpenWeatherMap API, aiogram 3 и асинхронных HTTP-запросов через httpx.
+
 **Tech stack:** *Python, aiogram, httpx, OpenWeatherMap API, Docker*
