@@ -39,7 +39,7 @@
 
 **Tech stack:** *Python, FastAPI, SQLAlchemy, PostgreSQL, Jinja2, Leaflet.js, OpenStreetMap*
 
-### [Store Management System](https://github.com/Daniels48/StoreManagement)
+### [Store Management System](https://github.com/Daniels48/Shop)
 
 Настольное приложение для автоматизации работы небольшого розничного магазина, включая управление товарами и интеграцию с платёжным терминалом.
 
